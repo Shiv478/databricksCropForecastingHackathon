@@ -1,0 +1,1 @@
+# Empty requirements.txt for Next.js app deployment
